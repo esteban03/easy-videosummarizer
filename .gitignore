@@ -1,0 +1,8 @@
+.env
+.idea
+__pycache__
+videos/
+transcribes/
+processed_audio/
+audios/
+.ipynb_checkpoints
